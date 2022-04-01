@@ -1,0 +1,13 @@
+super look ups
+-look up to adress of function
+-dictionaries
+
+it's a key value pair
+deterministic = every time we give it same input it return same output
+
+insert lookup delete o1
+
+hashmap new - hashtable is an old version
+hashmap allow null keys and null values also
+
+Q1:first repeated character

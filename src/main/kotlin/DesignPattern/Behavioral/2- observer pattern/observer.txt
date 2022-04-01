@@ -1,0 +1,13 @@
+Observer State:
+
+like push - poll
+old way using poll so each observer asking about data
+
+observer pattern using push
+observable(something can be observerd ) and observers
+
+it's a one to many relationship
+one -> observable
+many -> observers
+
+Chat Room is the best practice for observer pattern

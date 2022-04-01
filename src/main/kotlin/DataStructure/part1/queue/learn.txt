@@ -1,0 +1,19 @@
+printers,os,life suppert systems
+enqueue,dequeue,peek,isempty,isfull
+
+Queue is an interface in java
+********************************
+Q1:Reverse Queue
+if we use reverse so we should use STACK
+---------------------------------------
+how to build a queue?
+using -> stack , array , linkedlist
+
+first -> array
+we can use array with capacity
+[0 ,30 , 20 , 10 ,1]
+
+
+we can use circular array to fill  this position
+---
+second ->
